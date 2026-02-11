@@ -1,0 +1,23 @@
+system:
+  max_concurrency: 5
+  request_timeout: 10
+  user_agent: "Titan-v8-Infinity/Logic-Analyzer (Research)"
+  save_interval: 60
+  ram_threshold: 85
+  cpu_threshold: 90
+  night_mode: false
+
+ai:
+  confidence_threshold: 70
+  stagnation_limit: 10
+  min_evidence_count: 2
+
+paths:
+  scans_dir: "scans"
+
+auth:
+  contexts:
+    - name: "anon"
+    - name: "user_low"
+    - name: "user_high"
+    
