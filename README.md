@@ -195,7 +195,7 @@ It is designed to amplify them.
 
 ## 🔥 Animated Architecture
 
-![TITAN Animated Architecture](architecture_animated.svg)
+![TITAN Animated Architecture](TITAN_v8_master_architecture.svg)
 
 🎯 What This Gives You
 Moving scan flow lines
