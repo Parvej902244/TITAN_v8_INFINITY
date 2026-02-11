@@ -203,4 +203,4 @@ Cyber security glow effect
 Professional SaaS-level design
 Portfolio-ready
 It visually shows:
-CLI → Planner → Discovery → Logic → Risk → Core
+CLI → Planner → Discovery → Logic → Risk → Core.
